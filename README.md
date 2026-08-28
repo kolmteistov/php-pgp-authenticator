@@ -60,7 +60,7 @@ Design notes:
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dbe23c5e-c210-4acb-be0e-f25f94f5a608" width="32%" />
+  <img src="https://github.com/user-attachments/assets/5706888f-1f4a-43c7-adb2-41e0d7dd3f69" width="32%" />
   <img src="https://github.com/user-attachments/assets/b61053bd-5ebd-4bea-a618-4fe21e9a4cba" width="32%" />
   <img src="https://github.com/user-attachments/assets/2781171d-8051-497e-bfbf-f56cac0e53c6" width="32%" />
 </p>
